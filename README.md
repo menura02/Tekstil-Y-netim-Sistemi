@@ -32,6 +32,13 @@ X Tekstil Yönetim Sistemi, bir tekstil şirketinin üretim süreçlerini ve sto
 
 ![dokuma_ekle](https://github.com/user-attachments/assets/c7a420ef-a164-4903-95bc-419ef10ae0aa)
 
+## Tekstil Yönetim Sistemi Proje Tanıtım Videosu
+
+Bu projeyle ilgili hazırladığım tanıtım videosunu buradan izleyebilirsiniz:
+
+👉 [YouTube'da İzle](https://www.youtube.com/watch?v=G5wmaOQod7w)
+
+[![X Tekstil Tanıtım Videosu](https://img.youtube.com/vi/G5wmaOQod7w/0.jpg)](https://www.youtube.com/watch?v=G5wmaOQod7w)
 
 
 ## Teknolojiler
