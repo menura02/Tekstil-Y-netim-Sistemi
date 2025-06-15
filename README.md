@@ -26,6 +26,7 @@ X Tekstil Yönetim Sistemi, bir tekstil şirketinin üretim süreçlerini ve sto
   - Kumaş cinslerinin diğer modüllerde (boya, dokuma, stok, satış) kullanılması.
  
 ## Ekran Görüntüleri
+![Login](https://github.com/user-attachments/assets/4380e3d6-e310-4b77-a834-21a773e4cc53)
 
 ![Main Page](https://github.com/user-attachments/assets/55bdfd7c-861d-4a83-8426-3cb62bbaf186)
 
